@@ -7,7 +7,7 @@
 
 body {
     font-family: 'Montserrat', sans-serif;
-    background: url('/img/outer-space-background.jpg') no-repeat center center/cover;
+    background: url('/img/outer-space-background.jpg') no-repeat center center/cover; /* Otimização da imagem */
     color: #fff;
     line-height: 1.6;
     overflow-x: hidden;
